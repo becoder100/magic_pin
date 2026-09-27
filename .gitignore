@@ -1,0 +1,8 @@
+.env
+CLAUDE.md
+.claude/
+__pycache__/
+p.json
+push_*.json
+tick.json
+reply.json
